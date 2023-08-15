@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1329.207" height="598" viewBox="0 0 1329.207 598">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.1" stop-color="#ebfaf7"/>
+      <stop offset="0.895" stop-color="#ebfaf7"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_161364" data-name="Grupo 161364" transform="translate(-134.793 -5009)">
+    <rect id="Rectángulo_47274" data-name="Rectángulo 47274" width="1328" height="598" transform="translate(1464 5607) rotate(180)" fill="url(#linear-gradient)"/>
+    <path id="Sustracción_6" data-name="Sustracción 6" d="M8499,11984.979h0v-3.662l114.6-30.709,34.445-128.554-94.105-94.1L8499,11742.672v-3.665l56-15.006,97,97-.265.988L8616.5,11953.5l-.989.265-116.5,31.218h0Z" transform="translate(-8363 -6647)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Trazado_603162" data-name="Trazado 603162" d="M2.221,93.867,21.587,21.588,93.867,2.221,146.78,55.133l-19.368,72.28L55.132,146.78ZM94.462,0,20.518,19.814l-.555.149L0,94.463,54.537,149l73.944-19.813.555-.149,19.815-73.946.149-.555Z" transform="translate(180 5209.999)" fill="#fff"/>
+    <path id="Trazado_603163" data-name="Trazado 603163" d="M2.221,93.867,21.587,21.588,93.867,2.221,146.78,55.133l-19.368,72.28L55.132,146.78ZM94.462,0,20.518,19.814l-.555.149L0,94.463,54.537,149l73.944-19.813.555-.149,19.815-73.946.149-.555Z" transform="translate(1282 5131.999)" fill="#fff" opacity="0.94"/>
+  </g>
+</svg>

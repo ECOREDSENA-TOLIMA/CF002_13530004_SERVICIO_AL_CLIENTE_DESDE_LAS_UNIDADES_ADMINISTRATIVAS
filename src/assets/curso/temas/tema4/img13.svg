@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1030" height="544" viewBox="0 0 1030 544">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_46628" data-name="Rectángulo 46628" width="14.191" height="18.581" fill="#144567"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_161931" data-name="Grupo 161931" transform="translate(-285 -3707)">
+    <rect id="Rectángulo_48025" data-name="Rectángulo 48025" width="1030" height="544" transform="translate(285 3707)" fill="none"/>
+    <g id="Rectángulo_48026" data-name="Rectángulo 48026" transform="translate(642 3734)" fill="#f6efe9" stroke="#144567" stroke-width="1" stroke-dasharray="4">
+      <rect width="148" height="41" stroke="none"/>
+      <rect x="0.5" y="0.5" width="147" height="40" fill="none"/>
+    </g>
+    <g id="Rectángulo_48027" data-name="Rectángulo 48027" transform="translate(810 3734)" fill="#f6efe9" stroke="#144567" stroke-width="1" stroke-dasharray="4">
+      <rect width="148" height="41" stroke="none"/>
+      <rect x="0.5" y="0.5" width="147" height="40" fill="none"/>
+    </g>
+    <g id="Rectángulo_48028" data-name="Rectángulo 48028" transform="translate(1091 3798)" fill="none" stroke="#144567" stroke-width="2">
+      <rect width="224" height="62" stroke="none"/>
+      <rect x="1" y="1" width="222" height="60" fill="none"/>
+    </g>
+    <g id="Rectángulo_48029" data-name="Rectángulo 48029" transform="translate(285 3798)" fill="none" stroke="#144567" stroke-width="2">
+      <rect width="224" height="62" stroke="none"/>
+      <rect x="1" y="1" width="222" height="60" fill="none"/>
+    </g>
+    <g id="Rectángulo_48030" data-name="Rectángulo 48030" transform="translate(684 4111)" fill="none" stroke="#144567" stroke-width="2">
+      <rect width="231" height="119" stroke="none"/>
+      <rect x="1" y="1" width="229" height="117" fill="none"/>
+    </g>
+    <text id="Fuentes_de_entradas" data-name="Fuentes de entradas" transform="translate(390 3835)" fill="#144567" font-size="17" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-77.318" y="0">Fuentes de entradas</tspan></text>
+    <text id="Punto_de_inicio" data-name="Punto de inicio" transform="translate(716 3761)" fill="#144567" font-size="17" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-56.545" y="0">Punto de inicio</tspan></text>
+    <text id="Punto_final" data-name="Punto final" transform="translate(884 3760)" fill="#144567" font-size="17" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-40.985" y="0">Punto final</tspan></text>
+    <text id="Receptores_de_las_salidas" data-name="Receptores de las salidas" transform="translate(1203 3835)" fill="#144567" font-size="17" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-97.036" y="0">Receptores de las salidas</tspan></text>
+    <text id="Posibles_controles_y_punto_de_control_para_hacer_seguimiento_del_desempeño_y_medirlo" data-name="Posibles controles y punto de control para hacer seguimiento del desempeño y medirlo" transform="translate(712 4125)" fill="#12263f" font-size="17" font-family="Roboto-Regular, Roboto"><tspan x="0" y="16">Posibles controles y </tspan><tspan x="0" y="40">punto de control para </tspan><tspan x="0" y="64">hacer seguimiento del </tspan><tspan x="0" y="88">desempeño y medirlo</tspan></text>
+    <rect id="Rectángulo_48031" data-name="Rectángulo 48031" width="224" height="209" transform="translate(285 3860)" fill="#def8f3"/>
+    <rect id="Rectángulo_48032" data-name="Rectángulo 48032" width="196" height="209" transform="translate(532 3860)" fill="#e2e8ec"/>
+    <rect id="Rectángulo_48033" data-name="Rectángulo 48033" width="196" height="209" transform="translate(866 3860)" fill="#e2e8ec"/>
+    <rect id="Rectángulo_48034" data-name="Rectángulo 48034" width="224" height="209" transform="translate(1091 3860)" fill="#def8f3"/>
+    <text id="Procesos_precedentes_Por_ejemplo_en_proveedores_interno_o_externos_en_clientes_el_otras_partes_interesadas_pertinentes." data-name="Procesos precedentes 
+
+Por ejemplo, en proveedores (interno o externos), en clientes, el otras partes interesadas pertinentes." transform="translate(304 3883)" fill="#12263f" font-size="17" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="16">Procesos precedentes </tspan><tspan x="0" y="40"></tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="64">Por ejemplo, en </tspan><tspan x="0" y="88">proveedores (interno o </tspan><tspan x="0" y="112">externos), en clientes, el </tspan><tspan x="0" y="136">otras partes interesadas </tspan><tspan x="0" y="160">pertinentes.</tspan></tspan></text>
+    <text id="Procesos_posteriores_Por_ejemplo_en_clientes_internos_o_externos_en_otras_partes_interesadas_pertinentes._" data-name="Procesos posteriores
+
+Por ejemplo, en clientes (internos o externos), en otras partes interesadas pertinentes.
+" transform="translate(1107 3883)" fill="#12263f" font-size="17" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="16">Procesos posteriores</tspan><tspan x="0" y="40"></tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="64">Por ejemplo, en clientes </tspan><tspan x="0" y="88">(internos o externos), en </tspan><tspan x="0" y="112">otras partes interesadas </tspan><tspan x="0" y="136">pertinentes.</tspan><tspan x="0" y="160"></tspan></tspan></text>
+    <text id="Materia_energía_información_Por_ejemplo_en_la_forma_de_materiales_recursos_requisitos._" data-name="Materia, energía, información
+
+Por ejemplo, en la forma de materiales, recursos, requisitos. 
+" transform="translate(550 3883)" fill="#12263f" font-size="17" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="16">Materia, energía, </tspan><tspan x="0" y="40">información</tspan><tspan x="0" y="64"></tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="88">Por ejemplo, en la </tspan><tspan x="0" y="112">forma de materiales, </tspan><tspan x="0" y="136">recursos, requisitos. </tspan><tspan x="0" y="160"></tspan></tspan></text>
+    <g id="Trazado_604840" data-name="Trazado 604840" transform="translate(729.493 3798)" fill="none">
+      <path d="M0,0H122.014l19,30.643L122.014,62H0L19,32.291Z" stroke="none"/>
+      <path d="M 3.497299194335938 2 L 21.34615325927734 32.33506011962891 L 3.653121948242188 60 L 120.8870315551758 60 L 138.6678924560547 30.65482330322266 L 120.900520324707 2 L 3.497299194335938 2 M 0 0 L 122.013671875 0 L 141.013671875 30.64278030395508 L 122.013671875 62 L 0 62 L 18.99999237060547 32.29148101806641 L 0 0 Z" stroke="none" fill="#144567"/>
+    </g>
+    <text id="Actividades" transform="translate(805.493 3835)" fill="#144567" font-size="17" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-44.621" y="0">Actividades</tspan></text>
+    <g id="Elipse_5673" data-name="Elipse 5673" transform="translate(556.493 3798)" fill="none" stroke="#144567" stroke-width="2">
+      <ellipse cx="76.5" cy="31" rx="76.5" ry="31" stroke="none"/>
+      <ellipse cx="76.5" cy="31" rx="75.5" ry="30" fill="none"/>
+    </g>
+    <g id="Elipse_5674" data-name="Elipse 5674" transform="translate(890.507 3798)" fill="none" stroke="#144567" stroke-width="2">
+      <ellipse cx="76.5" cy="31" rx="76.5" ry="31" stroke="none"/>
+      <ellipse cx="76.5" cy="31" rx="75.5" ry="30" fill="none"/>
+    </g>
+    <text id="Entradas" transform="translate(633.493 3835)" fill="#144567" font-size="17" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-33.606" y="0">Entradas</tspan></text>
+    <text id="Salidas" transform="translate(967.507 3835)" fill="#144567" font-size="17" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-27.853" y="0">Salidas</tspan></text>
+    <text id="Materia_energía_información_Por_ejemplo_en_la_forma_de_producto_servicio_decisión_" data-name="Materia, energía, información, 
+
+Por ejemplo, en la forma de producto, servicio, decisión 
+" transform="translate(890.507 3883)" fill="#12263f" font-size="17" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="16">Materia, energía, </tspan><tspan x="0" y="40">información, </tspan><tspan x="0" y="64"></tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="88">Por ejemplo, en la </tspan><tspan x="0" y="112">forma de producto, </tspan><tspan x="0" y="136">servicio, decisión </tspan><tspan x="0" y="160"></tspan></tspan></text>
+    <g id="Grupo_161926" data-name="Grupo 161926" transform="translate(13.083 -7)">
+      <g id="Grupo_161926-2" data-name="Grupo 161926" transform="translate(2128.917 5810.092) rotate(180)">
+        <g id="Grupo_160582" data-name="Grupo 160582" transform="translate(932 1709.333)">
+          <g id="Grupo_160578" data-name="Grupo 160578" transform="translate(18.581 0) rotate(90)">
+            <g id="Grupo_160577" data-name="Grupo 160577" transform="translate(0 0)" clip-path="url(#clip-path)">
+              <path id="Trazado_600822" data-name="Trazado 600822" d="M1.388,18.58a1.388,1.388,0,0,1-.982-2.37l6.92-6.92L.407,2.37A1.388,1.388,0,0,1,2.37.406l7.9,7.9a1.388,1.388,0,0,1,0,1.963l-7.9,7.9a1.386,1.386,0,0,1-.982.407" transform="translate(3.512 0)" fill="#144567"/>
+            </g>
+          </g>
+        </g>
+        <path id="Trazado_600829" data-name="Trazado 600829" d="M.984,13.164a.984.984,0,0,1-.7-1.679l4.9-4.9-4.9-4.9A.983.983,0,1,1,1.679.288l5.6,5.6a.984.984,0,0,1,0,1.391l-5.6,5.6a.982.982,0,0,1-.7.288" transform="translate(947.926 1709.334) rotate(90)" fill="#144567"/>
+      </g>
+    </g>
+    <g id="Grupo_161927" data-name="Grupo 161927" transform="translate(390 4079.567)">
+      <g id="Grupo_161926-3" data-name="Grupo 161926" transform="translate(0 0)">
+        <g id="Grupo_160582-2" data-name="Grupo 160582" transform="translate(0 0)">
+          <g id="Grupo_160578-2" data-name="Grupo 160578" transform="translate(0 14.191) rotate(-90)">
+            <g id="Grupo_160577-2" data-name="Grupo 160577" clip-path="url(#clip-path)">
+              <path id="Trazado_600822-2" data-name="Trazado 600822" d="M1.388,0A1.388,1.388,0,0,0,.407,2.37l6.92,6.92L.407,16.211A1.388,1.388,0,0,0,2.37,18.174l7.9-7.9a1.388,1.388,0,0,0,0-1.963L2.37.407A1.386,1.386,0,0,0,1.388,0" transform="translate(3.512 0)" fill="#144567"/>
+            </g>
+          </g>
+        </g>
+        <path id="Trazado_600829-2" data-name="Trazado 600829" d="M.984,0a.984.984,0,0,0-.7,1.679l4.9,4.9-4.9,4.9a.983.983,0,1,0,1.391,1.391l5.6-5.6a.984.984,0,0,0,0-1.391l-5.6-5.6A.982.982,0,0,0,.984,0" transform="translate(2.762 14.191) rotate(-90)" fill="#144567"/>
+      </g>
+    </g>
+    <g id="Grupo_161928" data-name="Grupo 161928" transform="translate(-223.336 -7)">
+      <g id="Grupo_161926-4" data-name="Grupo 161926" transform="translate(2128.917 5810.092) rotate(180)">
+        <g id="Grupo_160582-3" data-name="Grupo 160582" transform="translate(932 1709.333)">
+          <g id="Grupo_160578-3" data-name="Grupo 160578" transform="translate(18.581 0) rotate(90)">
+            <g id="Grupo_160577-3" data-name="Grupo 160577" transform="translate(0 0)" clip-path="url(#clip-path)">
+              <path id="Trazado_600822-3" data-name="Trazado 600822" d="M1.388,18.58a1.388,1.388,0,0,1-.982-2.37l6.92-6.92L.407,2.37A1.388,1.388,0,0,1,2.37.406l7.9,7.9a1.388,1.388,0,0,1,0,1.963l-7.9,7.9a1.386,1.386,0,0,1-.982.407" transform="translate(3.512 0)" fill="#144567"/>
+            </g>
+          </g>
+        </g>
+        <path id="Trazado_600829-3" data-name="Trazado 600829" d="M.984,13.164a.984.984,0,0,1-.7-1.679l4.9-4.9-4.9-4.9A.983.983,0,1,1,1.679.288l5.6,5.6a.984.984,0,0,1,0,1.391l-5.6,5.6a.982.982,0,0,1-.7.288" transform="translate(947.926 1709.334) rotate(90)" fill="#144567"/>
+      </g>
+    </g>
+    <g id="Grupo_161929" data-name="Grupo 161929" transform="translate(790.71 3875.479)">
+      <g id="Grupo_161926-5" data-name="Grupo 161926" transform="translate(18.581 14.19) rotate(180)">
+        <g id="Grupo_160582-4" data-name="Grupo 160582">
+          <g id="Grupo_160578-4" data-name="Grupo 160578" transform="translate(18.581 0) rotate(90)">
+            <g id="Grupo_160577-4" data-name="Grupo 160577" clip-path="url(#clip-path)">
+              <path id="Trazado_600822-4" data-name="Trazado 600822" d="M1.388,18.58a1.388,1.388,0,0,1-.982-2.37l6.92-6.92L.407,2.37A1.388,1.388,0,0,1,2.37.406l7.9,7.9a1.388,1.388,0,0,1,0,1.963l-7.9,7.9a1.386,1.386,0,0,1-.982.407" transform="translate(3.512 0)" fill="#144567"/>
+            </g>
+          </g>
+        </g>
+        <path id="Trazado_600829-4" data-name="Trazado 600829" d="M.984,13.164a.984.984,0,0,1-.7-1.679l4.9-4.9-4.9-4.9A.983.983,0,1,1,1.679.288l5.6,5.6a.984.984,0,0,1,0,1.391l-5.6,5.6a.982.982,0,0,1-.7.288" transform="translate(15.926 0) rotate(90)" fill="#144567"/>
+      </g>
+    </g>
+    <g id="Grupo_161930" data-name="Grupo 161930" transform="translate(626.419 4079.567)">
+      <g id="Grupo_161926-6" data-name="Grupo 161926" transform="translate(0 0)">
+        <g id="Grupo_160582-5" data-name="Grupo 160582" transform="translate(0 0)">
+          <g id="Grupo_160578-5" data-name="Grupo 160578" transform="translate(0 14.191) rotate(-90)">
+            <g id="Grupo_160577-5" data-name="Grupo 160577" clip-path="url(#clip-path)">
+              <path id="Trazado_600822-5" data-name="Trazado 600822" d="M1.388,0A1.388,1.388,0,0,0,.407,2.37l6.92,6.92L.407,16.211A1.388,1.388,0,0,0,2.37,18.174l7.9-7.9a1.388,1.388,0,0,0,0-1.963L2.37.407A1.386,1.386,0,0,0,1.388,0" transform="translate(3.512 0)" fill="#144567"/>
+            </g>
+          </g>
+        </g>
+        <path id="Trazado_600829-5" data-name="Trazado 600829" d="M.984,0a.984.984,0,0,0-.7,1.679l4.9,4.9-4.9,4.9a.983.983,0,1,0,1.391,1.391l5.6-5.6a.984.984,0,0,0,0-1.391l-5.6-5.6A.982.982,0,0,0,.984,0" transform="translate(2.762 14.191) rotate(-90)" fill="#144567"/>
+      </g>
+    </g>
+    <path id="Trazado_604841" data-name="Trazado 604841" d="M5575-7540.93h285.71v-86.47" transform="translate(-4660 11716)" fill="none" stroke="#144567" stroke-width="2"/>
+    <path id="Trazado_604842" data-name="Trazado 604842" d="M5860.71-7540.93H5575v-86.47" transform="translate(-5175.71 11716)" fill="none" stroke="#144567" stroke-width="2"/>
+    <path id="Trazado_604843" data-name="Trazado 604843" d="M5624-7627.4v86.191" transform="translate(-4659.709 11716)" fill="none" stroke="#144567" stroke-width="2"/>
+    <path id="Trazado_604844" data-name="Trazado 604844" d="M5624-7627.4v226.488" transform="translate(-4823.999 11511.911)" fill="none" stroke="#144567" stroke-width="2"/>
+    <path id="Trazado_604845" data-name="Trazado 604845" d="M5624-7627.4v86.191" transform="translate(-4988.292 11716)" fill="none" stroke="#144567" stroke-width="2"/>
+    <path id="Trazado_604846" data-name="Trazado 604846" d="M5536.887-7941v54.193" transform="translate(-4666.38 11716)" fill="none" stroke="#144567" stroke-width="1" stroke-dasharray="4"/>
+    <path id="Trazado_604847" data-name="Trazado 604847" d="M5536.887-7941v54.193" transform="translate(-4807.394 11716)" fill="none" stroke="#144567" stroke-width="1" stroke-dasharray="4"/>
+  </g>
+</svg>

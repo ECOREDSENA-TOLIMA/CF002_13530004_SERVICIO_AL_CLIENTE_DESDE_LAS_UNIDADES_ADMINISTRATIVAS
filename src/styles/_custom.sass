@@ -2,8 +2,8 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 25%
+    right: 70%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
@@ -17,3 +17,76 @@
 
   100%
     transform: translateY(0px)
+
+    // Color texto titulo banner
+.banner-principal__componente
+  h1
+    color: $black
+// Color texto descriptivo banner
+.banner-principal__descripcion
+  p
+    color: $black
+//Color texto - Botón banner
+.banner-principal__accion
+  a > *
+    color: $white
+//colot texto - Botones CF
+a.boton
+  i, span
+    color: $white
+
+.cajon
+  position: relative
+  &:before
+    content: ''
+    display: block
+    width: 25px
+    height: 10px
+    position: absolute
+    top: 0
+    left: 0
+
+  &.color-primario
+    background-color: lighten($color-primario, 15%)
+    &:before
+      background-color: $color-primario
+  &.color-secundario
+    background-color: lighten($color-secundario, 20%)
+    &:before
+      background-color: $color-secundario
+  &.color-acento-contenido
+    background-color: lighten($color-acento-contenido, 18%)
+    &:before
+      background-color: $color-acento-contenido
+  &.color-acento-botones
+    background-color: lighten($color-acento-botones, 35%)
+    &:before
+      background-color: $color-acento-botones
+
+.BGIMG01
+  border-radius: 15px
+  background-image: url("../assets/curso/fondos/img1.svg")
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
+
+.BGIMG02
+  border-radius: 15px
+  background-image: url("../assets/curso/fondos/img2.svg")
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
+
+.BGIMG03
+  border-radius: 15px
+  background-image: url("../assets/curso/fondos/img3.svg")
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
+
+.BGIMG04
+  border-radius: 15px
+  background-image: url("../assets/curso/fondos/img4.svg")
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
