@@ -353,7 +353,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Jorge Bustos Gómez',
+          nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validación y vinculación en plataforma LMS',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
