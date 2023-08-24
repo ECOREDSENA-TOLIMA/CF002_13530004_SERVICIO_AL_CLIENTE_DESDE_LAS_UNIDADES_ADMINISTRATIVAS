@@ -86,7 +86,7 @@
     .row.justify-content-center.mt-5(data-aos="fade-left")
       .col-10 
         .titulo-sexto.color-acento-contenido
-          h5 Figura 9: 
+          h5 Figura 9.
           span <i>Elementos del ciclo PHVA.</i>
         ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
@@ -194,7 +194,7 @@
         p(data-aos="fade-right").mt-5 Los procesos al interior de las organizaciones tienen unas entradas, que son los recursos necesarios para producir un bien o servicio, los cuales son transformados a lo cual se denomina como actividad, estas actividades que transforman los elementos de entrada generan unas salidas que son los productos y servicios que ofrece la organización. Ver figura.
 
         .titulo-sexto.color-acento-contenido.mt-5
-          h5 Figura 10: 
+          h5 Figura 10.
           span <i>Esquema de procesos.</i>
           
         figure
@@ -321,7 +321,7 @@
     p(data-aos="fade-right").mt-5 A continuación se establecen los pasos para la realización de una auditoría del sistema de gestión de la calidad: 
 
     .titulo-sexto.color-acento-contenido.mt-5
-      h5 Figura 11: 
+      h5 Figura 11.
       span <i>Proceso de auditoría al sistema de gestión de la calidad.</i>
     figure
       img(src='@/assets/curso/temas/tema4/img22.png', alt='Se muestra el proceso de una auditoría al sistema de gestión de calidad paso a paso: Paso 1: Inicio de la auditoría. Paso 2: Preparación de las actividades de la auditoría. Paso 3: Realización de así actividades de la auditoría. Paso 4: Preparación y distribución del informa de auditoría. Paso 5: Finalización de la auditoría. Paso 6 y final: Realización del seguimiento de la auditoría.')

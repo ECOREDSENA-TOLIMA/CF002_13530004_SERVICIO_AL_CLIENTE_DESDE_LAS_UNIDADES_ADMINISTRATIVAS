@@ -46,7 +46,7 @@
     .row.justify-content-center.mt-5
       .col-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 6: 
+          h5 Figura 6.
           span <i>Elementos de la comunicación.</i>
         figure
           img(src='@/assets/curso/temas/tema3/img7.svg', alt='Se ve una gráfica que muestra los elementos de la comunicación: *Canal de comunicación *Mensaje *Receptor *Emisor *El emisor, es la persona que transmite el mensaje; el receptor quien recibe el mensaje y como lo indicamos el mensaje es lo que queremos comunicar.')
@@ -54,10 +54,12 @@
         .cajon.color-primario.p-4.mt-5
           p Las organizaciones deben propender porque el personal de servicio al cliente exprese, comunique y sea receptivo a lo que el cliente comunica; pero también a lo que la organización comunica, estas características de la comunicación e información deben ser concebidas como uno de los atributos más relevantes dentro del proceso de servicio al cliente, para ello se resalta: 
 
+    p(data-aos="fade-right").mt-5 Las solicitudes o peticiones en la actualidad se denominan con la sigla PQRS, la cual dimensiona cinco experiencias o solicitudes de los clientes, esta abreviatura corresponde a petición, quejas, reclamos, sugerencias y felicitaciones, que se traducen básicamente en la forma en que nos dirigimos a los clientes, en el siguiente vídeo, podrá consultar más al respecto: 
+
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/25hHFRh4Mjg" title="Evaluación y monitoreo en la implementación de BPG en la Producción Porcina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption Video: Evaluación y monitoreo en la implementación de BPG en la Producción Porcina
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/MjYTz9vzCFw?si=XDo7cGB8vGiuhPdx" title="Proceso de atención y servicio al cliente" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Video: Proceso de atención y servicio al cliente
 
     .row.align-items-center.justify-content-center.mt-5
       .col-10
@@ -177,7 +179,7 @@
     .row.justify-content-center.mt-5
       .col-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 7: 
+          h5 Figura 7.
           span <i>Beneficio e implementación de software de servicio al cliente.</i>
         figure
           img(src='@/assets/curso/temas/tema3/img16.svg', alt='Se ve un gráfico que muestra los beneficios del uso del software así: *Disponibilidad de datos e información. *Satisfacción del cliente *Automatización del proceso *Ahorro de tiempo')
@@ -227,7 +229,7 @@
     .row.justify-content-center.mt-5
       .col-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 8: 
+          h5 Figura 8.
           span <i>Seguimiento al proceso de venta.</i>
         figure
           img(src='@/assets/curso/temas/tema3/img21.svg', alt='Es una infografía que permite ver las semejanzas entre CRM y SAV, esas semejanzas son las siguientes: • Satisfacción y fidelización del cliente. • Automatización de los procesos de servicio al cliente. • Almacenamiento de datos. • Respuesta eficiente y eficaz al cliente. • Seguridad de la información. • Reducción de tiempo. • Reducción de costos.')

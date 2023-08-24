@@ -12,8 +12,8 @@
     p(data-aos="fade-right").mb-5 A continuación podrá conocer la información fundamental sobre el servicio al cliente que brindará los lineamientos para la información posterior. Se invita a visualizarlo:
       figure
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/_p54nnOswtw" title="Gestión de la calidad en el servicio al cliente" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-            figcaption Video: Gestión de la calidad en el servicio al cliente
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/j7zSYKv7w6k?si=l4RYLDjFnZZ_dyG4" title="Servicio al cliente" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            figcaption Video: Servicio al cliente
 </template>
 
 <script>

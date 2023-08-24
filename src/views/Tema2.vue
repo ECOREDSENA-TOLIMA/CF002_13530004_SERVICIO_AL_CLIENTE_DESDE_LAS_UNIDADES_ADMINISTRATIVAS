@@ -75,7 +75,7 @@
       .col-10
         p Existen diferentes tipos de sistemas de información, los cuales se adaptan a las necesidades de cada organización, entre los cuales se encuentran:
         .titulo-sexto.color-acento-contenido.mt-5
-          h5 Figura 3: 
+          h5 Figura 3.
           span <i>Tipos de sistemas de información.</i>
         figure
           img(src='@/assets/curso/temas/tema2/img6.png', alt='Se puede ver un organizador gráfico a manera de diagrama en el que se muestran los 4 sistemas que componen el sistema de Información; el primer sistema es el sistema de procesamiento de transacciones conocido como TPS y es el que procesa las gestiones operativas, el segundo es el sistema de información ejecutiva conocido como EIS que es el que procesa la información gerencial de áreas específicas, el tercero el el sistema de información gerencial conocido como MIS que es el encargado del procesamiento de la información gerencial de toda la organización y por último el sistema de soporte de decisiones o DSS que se encarga de procesar la información interna y externa para la toma de decisiones.')    
@@ -85,7 +85,7 @@
     p(data-aos="fade-right") Dentro de los tipos de bases de datos se pueden clasificar según su variabilidad y el contenido, de acuerdo con la variabilidad se refiere al tipo de datos que se almacenan y las bases de datos de contenido se refiere a la naturaleza de los datos.
 
     .titulo-sexto.color-acento-contenido.mt-5
-      h5 Figura 4: 
+      h5 Figura 4.
       span <i>Tipo de base de datos.</i>
     figure
       img(src='@/assets/curso/temas/tema2/img7.png', alt='Se muestra un organizado visual que comparte la siguiente información: *•Tipo de base de datos: *Según la viabilidad y contiene: Datos estáticos históricos Datos dinámicos: proceso de operación de las organizaciones *Según el contenido que contiene: Bibliográficas Texto Especializadas Directorios')     
@@ -109,7 +109,7 @@
           p Algunos de los pasos para calcular el tiempo de respuesta de la PQRS son:
         .col-md-8
           .titulo-sexto.color-acento-contenido
-            h5 Figura 5: 
+            h5 Figura 5.
             span <i>Calcular el tiempo de respuesta a una petición.</i>
           figure
             img(src='@/assets/curso/temas/tema2/img12.png', alt='Es una gráfica que muestra: Fecha de petición - Fecha- Fecha de respuesta. Hora de petición - Hora de respuesta.')
@@ -123,7 +123,7 @@
     p(data-aos="fade-right") A continuación se presenta una relación de los tiempos óptimos en dar respuesta de acuerdo con los medios de comunicación empleados por las organizaciones.
 
     .titulo-sexto.color-acento-contenido.mt-5
-      h5 Tabla 1: 
+      h5 Tabla 2.
       span <i>Tiempo de respuesta.</i>
 
     .tabla-b.color-acento-contenido.mt-5(data-aos="fade-left")
@@ -180,8 +180,8 @@
 
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/25hHFRh4Mjg" title="Evaluación y monitoreo en la implementación de BPG en la Producción Porcina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption Video: Evaluación y monitoreo en la implementación de BPG en la Producción Porcina
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/GDK-3pt7Pyg?si=B0_dCLo5X3T9IRTU" title="Trazabilidad del servicio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Video: Trazabilidad del servicio
 
     p(data-aos="fade-right").mt-5 Dentro de las trazabilidades de servicio se encuentran la trazabilidad documental y metrológica, observe en qué consisten:
 

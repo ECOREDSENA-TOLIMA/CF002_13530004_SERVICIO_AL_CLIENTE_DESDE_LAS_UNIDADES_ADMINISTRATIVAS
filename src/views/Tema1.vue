@@ -57,15 +57,15 @@
       
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/25hHFRh4Mjg" title="Evaluación y monitoreo en la implementación de BPG en la Producción Porcina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption Video: Evaluación y monitoreo en la implementación de BPG en la Producción Porcina
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/4WIq433jNMA?si=yYpsxsPnV_rxhvbp" title="Cliente" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Video: Cliente
 
     p(data-aos="fade-right").mt-5 Los clientes o consumidores son personas u organizaciones que adquieren bienes o servicios, con la finalidad de satisfacer sus necesidades. Los clientes se pueden clasificar en clientes internos y clientes externos, quienes son consumidores de productos y servicios, los cuales tienen las siguientes características:
 
     .row.justify-content-center.mt-5(data-aos="fade-left")
       .col-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 1: 
+          h5 Figura 1.
           span <i>Características de consumidores de productos y servicios.</i>  
         figure
           img(src='@/assets/curso/temas/tema1/img7.svg', alt='Se muestra un gráfica con la clasificación de los clientes según si son internos o externos. Los clientes internos pueden ser: Propietarios. Franquiciados. Distribuidores. Personales. Accionistas. Por el otro lado se tiene al cliente externo que puede ser: Clientes. Gobiernos. Organizaciones.')          
@@ -95,7 +95,7 @@
         p Para lo anterior se hace necesario considerar sus diferencias:
       
       .titulo-sexto.color-acento-contenido.mt-5
-        h5 Figura 2: 
+        h5 Figura 2. 
         span <i>Diferencias persona jurídica y persona natural.</i>  
       .col-5
         figure
@@ -129,7 +129,7 @@
             .h5.mb-2 Cliente con decisión de compra.
             p Quien tiene la necesidad del producto o servicio y tiene los recursos para adquirirlo.
 
-        p(data-aos="fade-right").mt-5 Los clientes, sean personas naturales o personas jurídicas, consumidor activo o potencial, posee unas características, que pueden ser cualitativas y cuantitativas, y se deben identificar de forma correcta para poder dirigir las estrategias organizacionales y atraer al cliente y fidelizarlo, dentro de las estrategias están los sistemas de gestión de la calidad al interior de la organización, con el enfoque al cliente y las estrategias del marketing; lo que permitirá posicionar la marca de la entidad u organización.
+        p(data-aos="fade-right").mt-5 Los clientes, sean personas naturales o personas jurídicas, consumidor activo o potencial, posee unas características, que pueden ser cualitativas y cuantitativas, y se deben identificar de forma correcta para poder dirigir las estrategias organizacionales y atraer al cliente y fidelizarlo, dentro de las estrategias están los sistemas de gestión de la calidad al interior de la organización, con el enfoque al cliente y las estrategias del <i>marketing</i>; lo que permitirá posicionar la marca de la entidad u organización.
     
         .cajon.color-acento-contenido.p-4.mt-5
           p Dentro de las características cuantitativas se encuentran las que pueden ser cuantificables como edad, ingresos mensuales o anuales, activos, pasivos y patrimonio, las inversiones que realiza, entre otros, recordando que estas características deben de ser medibles.
@@ -144,8 +144,8 @@
 
       figure.mt-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/25hHFRh4Mjg" title="Evaluación y monitoreo en la implementación de BPG en la Producción Porcina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-            figcaption Video: Evaluación y monitoreo en la implementación de BPG en la Producción Porcina
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/FxVNkf957tw?si=kuFtADa97VylXpMJ" title="Tipos de clientes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            figcaption Video: Tipos de clientes
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido
@@ -164,6 +164,10 @@
               p Las reglas de protocolo permiten a las organizaciones implementar las normas de comportamiento de todos sus miembros, estableciendo jerarquías y el orden estructural al interior de la organización; estas adecuadas normas de comportamiento permiten un adecuado posicionamiento de imagen corporativa tanto con los clientes internos como externos.
         
         p(data-aos="fade-right").mt-5 Los protocolos al interior de las organizaciones se pueden clasificar en seis tipos tal como se ve en la siguiente tabla:
+
+        .titulo-sexto.color-acento-contenido.mt-5
+          h5 Tabla 1.
+          span <i>Tipos de Protocolos en las Organizaciones.</i>
 
         .tabla-b.color-acento-contenido.mt-5(data-aos="fade-left")
           table
@@ -262,8 +266,8 @@
     
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/25hHFRh4Mjg" title="Evaluación y monitoreo en la implementación de BPG en la Producción Porcina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption Video: Evaluación y monitoreo en la implementación de BPG en la Producción Porcina
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/a-BgD2Cb0po?si=SZ6mzElgnzHEcjCi" title="Normas de Etiqueta y Protocolo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Video: Normas de Etiqueta y Protocolo
 
 </template>
 
