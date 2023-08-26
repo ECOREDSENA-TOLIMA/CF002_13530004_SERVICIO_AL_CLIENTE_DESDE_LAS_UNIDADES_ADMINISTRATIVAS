@@ -47,7 +47,7 @@
       .col-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 6.
-          span <i>Elementos de la comunicación.</i>
+          span <i>Elementos de la comunicación</i>
         figure
           img(src='@/assets/curso/temas/tema3/img7.svg', alt='Se ve una gráfica que muestra los elementos de la comunicación: *Canal de comunicación *Mensaje *Receptor *Emisor *El emisor, es la persona que transmite el mensaje; el receptor quien recibe el mensaje y como lo indicamos el mensaje es lo que queremos comunicar.')
 
@@ -180,7 +180,7 @@
       .col-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 7.
-          span <i>Beneficio e implementación de software de servicio al cliente.</i>
+          span <i>Beneficio e implementación de software de servicio al cliente</i>
         figure
           img(src='@/assets/curso/temas/tema3/img16.svg', alt='Se ve un gráfico que muestra los beneficios del uso del software así: *Disponibilidad de datos e información. *Satisfacción del cliente *Automatización del proceso *Ahorro de tiempo')
 
@@ -230,7 +230,7 @@
       .col-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 8.
-          span <i>Seguimiento al proceso de venta.</i>
+          span <i>Seguimiento al proceso de venta</i>
         figure
           img(src='@/assets/curso/temas/tema3/img21.svg', alt='Es una infografía que permite ver las semejanzas entre CRM y SAV, esas semejanzas son las siguientes: • Satisfacción y fidelización del cliente. • Automatización de los procesos de servicio al cliente. • Almacenamiento de datos. • Respuesta eficiente y eficaz al cliente. • Seguridad de la información. • Reducción de tiempo. • Reducción de costos.')
 

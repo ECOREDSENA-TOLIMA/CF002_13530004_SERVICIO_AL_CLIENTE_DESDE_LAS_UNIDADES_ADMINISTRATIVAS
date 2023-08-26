@@ -149,7 +149,7 @@
       .col-10
         .titulo-sexto.color-acento-contenido.mt-5
           h5 Figura 12.
-          span <i>Pruebas de control y sustantivas.</i>
+          span <i>Pruebas de control y sustantivas</i>
         figure
           img(src='@/assets/curso/temas/tema5/img10.svg', alt='Se muestra una balanza, en la parte izquierda dice: Las pruebas sustantivas son realizadas por el auditor, con el objeto de validar las evidencias soportadas en la auditoría. Y en la derecha dice lo siguiente: Las pruebas de control son realizadas por los auditores con la finalidad de obtener evidencias sobre los criterios auditados del sistema de gestión de la calidad.')          
 

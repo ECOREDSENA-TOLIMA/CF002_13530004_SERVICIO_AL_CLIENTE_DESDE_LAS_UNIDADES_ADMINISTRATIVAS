@@ -66,7 +66,7 @@
       .col-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 1.
-          span <i>Características de consumidores de productos y servicios.</i>  
+          span <i>Características de consumidores de productos y servicios</i>  
         figure
           img(src='@/assets/curso/temas/tema1/img7.svg', alt='Se muestra un gráfica con la clasificación de los clientes según si son internos o externos. Los clientes internos pueden ser: Propietarios. Franquiciados. Distribuidores. Personales. Accionistas. Por el otro lado se tiene al cliente externo que puede ser: Clientes. Gobiernos. Organizaciones.')          
 
@@ -96,7 +96,7 @@
       
       .titulo-sexto.color-acento-contenido.mt-5
         h5 Figura 2. 
-        span <i>Diferencias persona jurídica y persona natural.</i>  
+        span <i>Diferencias persona jurídica y persona natural</i>  
       .col-5
         figure
           img(src='@/assets/curso/temas/tema1/img10.svg', alt='Se hace la comparación entre los clientes que son personas naturales y personas jurídicas. Las personas jurídicas son: Es personas ficticias. Se componente de una o más personas. Actúa a nombre de la sociedad por medio del representante legal. Tiene un patrimonio diferente al de los socios.  Mientras que las personas naturales son: Una persona. Esa persona es una persona humana. Actúa a nombre propio. Cuenta con el patrimonio personal.')                
@@ -114,19 +114,19 @@
               img(src='@/assets/curso/temas/tema1/img12.svg', alt='Se clasifica el tipo de cliente en una gráfica en dos categorías, cliente actual y cliente potencial. El cliente actual puede ser un cliente activo e inactivo que se definen así: Cliente activo es la persona que en la actualidad adquiere los productos o servicios. Cliente inactivo es la persona que compró el producto o servicio, en un periodo de tiempo y en la actualidad no se beneficia de este. Por el lado del cliente potencial se tienen los clientes que están en la competencia y los clientes con decisión de compra y sus respectivas definiciones son las siguientes, Cliente en la competencia: quien en la actualidad adquiere sus productos y servicios en la competencia. Cliente con decisión de compra: quien tiene la necesidad del producto o servicio y tiene los recursos para adquirirlo.')              
 
           .tarjeta.tarjeta--blanca.p-3(x="14%" y="84%" numero="+")
-            .h5.mb-2 Cliente activo.
+            .h5.mb-2 Cliente activo
             p Es la persona que en la actualidad adquiere los productos o servicios.
 
           .tarjeta.tarjeta--blanca.p-3(x="38%" y="84%" numero="+")
-            .h5.mb-2 Cliente inactivo.
+            .h5.mb-2 Cliente inactivo
             p Es la personas que compró el producto o servicio, en un periodo de tiempo y en la actualidad no se beneficia de este.
 
           .tarjeta.tarjeta--blanca.p-3(x="63%" y="83%" numero="+")
-            .h5.mb-2 Cliente en la competencia.
+            .h5.mb-2 Cliente en la competencia
             p Quien en la actualidad adquiere sus productos y servicios en la competencia.
 
           .tarjeta.tarjeta--blanca.p-3(x="87%" y="83%" numero="+")
-            .h5.mb-2 Cliente con decisión de compra.
+            .h5.mb-2 Cliente con decisión de compra
             p Quien tiene la necesidad del producto o servicio y tiene los recursos para adquirirlo.
 
         p(data-aos="fade-right").mt-5 Los clientes, sean personas naturales o personas jurídicas, consumidor activo o potencial, posee unas características, que pueden ser cualitativas y cuantitativas, y se deben identificar de forma correcta para poder dirigir las estrategias organizacionales y atraer al cliente y fidelizarlo, dentro de las estrategias están los sistemas de gestión de la calidad al interior de la organización, con el enfoque al cliente y las estrategias del <i>marketing</i>; lo que permitirá posicionar la marca de la entidad u organización.
@@ -167,7 +167,7 @@
 
         .titulo-sexto.color-acento-contenido.mt-5
           h5 Tabla 1.
-          span <i>Tipos de Protocolos en las Organizaciones.</i>
+          span <i>Tipos de protocolos en las organizaciones.</i>
 
         .tabla-b.color-acento-contenido.mt-5(data-aos="fade-left")
           table

@@ -87,7 +87,7 @@
       .col-10 
         .titulo-sexto.color-acento-contenido
           h5 Figura 9.
-          span <i>Elementos del ciclo PHVA.</i>
+          span <i>Elementos del ciclo PHVA</i>
         ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
             figure
@@ -195,7 +195,7 @@
 
         .titulo-sexto.color-acento-contenido.mt-5
           h5 Figura 10.
-          span <i>Esquema de procesos.</i>
+          span <i>Esquema de procesos</i>
           
         figure
           img(src='@/assets/curso/temas/tema4/img13.svg', alt='Se muestra un esquema del proceso con 5 puntos 1. Fuentes de entradas: *Procesos precedentes Por ejemplo, en proveedores (interno o externos). En clientes, el otras partes interesadas pertinentes. 2. Entradas: Materia, energía, información, por ejemplo, en la forma de materiales, recursos, requisitos 3. Actividades. 4. Salidas:Materia, energía, información, por ejemplo, en la forma de producto, servicio, decisión 5. Receptores de las salidas: Procesos posteriores, por ejemplo, en clientes (internos o externos) en otras partes interesadas pertinentes. *Posibles controles y punto de control para hacer seguimiento del desempeño y medirlo.')
@@ -322,7 +322,7 @@
 
     .titulo-sexto.color-acento-contenido.mt-5
       h5 Figura 11.
-      span <i>Proceso de auditoría al sistema de gestión de la calidad.</i>
+      span <i>Proceso de auditoría al sistema de gestión de la calidad</i>
     figure
       img(src='@/assets/curso/temas/tema4/img22.png', alt='Se muestra el proceso de una auditoría al sistema de gestión de calidad paso a paso: Paso 1: Inicio de la auditoría. Paso 2: Preparación de las actividades de la auditoría. Paso 3: Realización de así actividades de la auditoría. Paso 4: Preparación y distribución del informa de auditoría. Paso 5: Finalización de la auditoría. Paso 6 y final: Realización del seguimiento de la auditoría.')
       figcaption Nota. Tomado de Icontec Internacional.

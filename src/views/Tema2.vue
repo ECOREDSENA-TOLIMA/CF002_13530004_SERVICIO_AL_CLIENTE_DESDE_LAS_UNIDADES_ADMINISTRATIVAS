@@ -50,7 +50,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img4.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0Debido a estos cambios y nuevos retos que se han dado, en esta nueva era digital las organizaciones han implementado los sistemas de la información (SI), que son un conjunto de elementos ordenados que permiten la administración de datos, de acceso constante y permanente para las organizaciones.
+            p.mb-0Debido A estos cambios y nuevos retos que se han dado en esta nueva era digital, las organizaciones han implementado los sistemas de la información (SI), que son un conjunto de elementos ordenados que permiten la administración de datos, de acceso constante y permanente para las organizaciones.
 
         p(data-aos="fade-right").mt-5 Estos sistemas de la información al estar interconectados y en interacción permiten el almacenamiento de datos, los cuales se encuentran disponibles para la toma de decisiones al interior de las organizaciones, debido a que permiten la recopilación, procesamiento y almacenamiento de datos, para su posterior análisis y toma de decisiones a partir de esta información.
         p(data-aos="fade-right") Todos los sistemas de información de las organizaciones deben de contar con los siguientes componentes:
@@ -61,9 +61,9 @@
           img(src="@/assets/curso/temas/tema2/img5.png")
       .col-lg-8
         LineaTiempoD.color-secundario
-          p(numero="1" titulo="Software") Programas o sistemas que permiten el procesamiento y administración de datos.
+          p(numero="1" titulo="<i>Software</i>") Programas o sistemas que permiten el procesamiento y administración de datos.
 
-          p(numero="2" titulo="Hardware") Los sistemas de información deben de contar con un conjunto de elementos físicos y materiales, que permitan su soporte como los computadores u ordenadores.
+          p(numero="2" titulo="<i>Hardware</i>") Los sistemas de información deben de contar con un conjunto de elementos físicos y materiales, que permitan su soporte como los computadores u ordenadores.
 
           p(numero="3" titulo="Base de datos") También conocidas como banco de datos, recopilan información ordenada y sistemática para ser analizada y soportar las decisiones en las organizaciones.
 
@@ -76,7 +76,7 @@
         p Existen diferentes tipos de sistemas de información, los cuales se adaptan a las necesidades de cada organización, entre los cuales se encuentran:
         .titulo-sexto.color-acento-contenido.mt-5
           h5 Figura 3.
-          span <i>Tipos de sistemas de información.</i>
+          span <i>Tipos de sistemas de información</i>
         figure
           img(src='@/assets/curso/temas/tema2/img6.png', alt='Se puede ver un organizador gráfico a manera de diagrama en el que se muestran los 4 sistemas que componen el sistema de Información; el primer sistema es el sistema de procesamiento de transacciones conocido como TPS y es el que procesa las gestiones operativas, el segundo es el sistema de información ejecutiva conocido como EIS que es el que procesa la información gerencial de áreas específicas, el tercero el el sistema de información gerencial conocido como MIS que es el encargado del procesamiento de la información gerencial de toda la organización y por último el sistema de soporte de decisiones o DSS que se encarga de procesar la información interna y externa para la toma de decisiones.')    
      
@@ -86,9 +86,9 @@
 
     .titulo-sexto.color-acento-contenido.mt-5
       h5 Figura 4.
-      span <i>Tipo de base de datos.</i>
+      span <i>Tipo de base de datos</i>
     figure
-      img(src='@/assets/curso/temas/tema2/img7.png', alt='Se muestra un organizado visual que comparte la siguiente información: *•Tipo de base de datos: *Según la viabilidad y contiene: Datos estáticos históricos Datos dinámicos: proceso de operación de las organizaciones *Según el contenido que contiene: Bibliográficas Texto Especializadas Directorios')     
+      img(src='@/assets/curso/temas/tema2/img7.svg', alt='Se muestra un organizado visual que comparte la siguiente información: *•Tipo de base de datos: *Según la viabilidad y contiene: Datos estáticos históricos Datos dinámicos: proceso de operación de las organizaciones *Según el contenido que contiene: Bibliográficas Texto Especializadas Directorios')     
 
     separador
     #t_2_2.titulo-segundo.color-acento-contenido
@@ -110,7 +110,7 @@
         .col-md-8
           .titulo-sexto.color-acento-contenido
             h5 Figura 5.
-            span <i>Calcular el tiempo de respuesta a una petición.</i>
+            span <i>Calcular el tiempo de respuesta a una petición</i>
           figure
             img(src='@/assets/curso/temas/tema2/img12.png', alt='Es una gráfica que muestra: Fecha de petición - Fecha- Fecha de respuesta. Hora de petición - Hora de respuesta.')
 
