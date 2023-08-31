@@ -96,7 +96,7 @@
       .col-8
         .bloque-texto-c(style="background-color:#DEF8F3").p-4
           i.fas.fa-quote-right
-          h2.mb-2 La evidencia es un término que procede del latín evidentĭa y que permite indicar una certeza manifiesta que resulta innegable y que no se puede dudar .
+          h2.mb-2 La evidencia es un término que procede del latín evidentĭa y que permite indicar una certeza manifiesta que resulta innegable y que no se puede dudar.
           span - Pérez & Merino, 2021
         p.mt-3 Las evidencias como soporte para las auditorías al sistema de gestión de la calidad se consideran competentes y suficientes al cumplir las siguientes características: 
       .col-4 

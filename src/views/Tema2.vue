@@ -8,7 +8,7 @@
       h1 Solicitudes
 
     p(data-aos="fade-right") En el sistema de servicio al cliente en las organizaciones existen solicitudes o peticiones internas o externas, las cuales se realizan de forma verbal o escrita, estas solicitudes o peticiones permiten que las organizaciones tengan lazos de conexión con los clientes internos o externos.
-    p(data-aos="fade-right") El área de servicio al cliente es la encargada de gestionar peticiones, quejas, reclamos, sugerencias o felicitaciones de sus clientes, por lo cual una correcta gestión de las mismas genera en el cliente una satisfacción en el servicio, la cual se corroboró con una lista de chequeo de satisfacción del cliente.
+    p(data-aos="fade-right") El área de servicio al cliente es la encargada de gestionar peticiones, quejas, reclamos, sugerencias o felicitaciones de sus clientes, por lo cual una correcta gestión de las mismas, genera en el cliente una satisfacción en el servicio, la cual se corrobora con una lista de chequeo de satisfacción del cliente.
     p(data-aos="fade-right") Las solicitudes o peticiones en la actualidad se denominan con la sigla PQRS, la cual dimensiona cinco experiencias o solicitudes de los clientes, esta abreviatura corresponde a petición, queja, reclamos, sugerencias y felicitaciones, definidos así:
 
     .tarjeta--container.row.mt-5
@@ -41,7 +41,7 @@
     #t_2_1.titulo-segundo.color-acento-contenido
       h2 2.1  Sistemas de información
 
-    p(data-aos="fade-right") El mundo actual se encuentra en una era digital, que ha permitido acelerar los procesos al interior de las organizaciones y les ha permitido evolucionar, debido a que ha encontrado en esta nueva era retos y desafíos; pero también grandes oportunidades, como es el almacenamiento de datos, el cual permite realizar un análisis adecuado que soporta decisiones y estrategias organizacionales.
+    p(data-aos="fade-right") El mundo actual se encuentra en una era digital, que posibilita acelerar los procesos al interior de las organizaciones y les ha permitido evolucionar, debido a que ha encontrado en esta nueva era retos y desafíos; pero también grandes oportunidades, como es el almacenamiento de datos, el cual permite realizar un análisis adecuado que soporta decisiones y estrategias organizacionales.
 
     .row.justify-content-center.mt-5
       .col-10
@@ -50,9 +50,9 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img4.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0Debido A estos cambios y nuevos retos que se han dado en esta nueva era digital, las organizaciones han implementado los sistemas de la información (SI), que son un conjunto de elementos ordenados que permiten la administración de datos, de acceso constante y permanente para las organizaciones.
+            p.mb-0Debido Debido a estos cambios y nuevos retos que se han dado en esta nueva era digital, las organizaciones han implementado los sistemas de la información (SI), que son un conjunto de elementos ordenados que permiten la administración de datos, de acceso constante y permanente para las organizaciones.
 
-        p(data-aos="fade-right").mt-5 Estos sistemas de la información al estar interconectados y en interacción permiten el almacenamiento de datos, los cuales se encuentran disponibles para la toma de decisiones al interior de las organizaciones, debido a que permiten la recopilación, procesamiento y almacenamiento de datos, para su posterior análisis y toma de decisiones a partir de esta información.
+        p(data-aos="fade-right").mt-5 Estos sistemas de la información al estar interconectados y en interacción, permiten el almacenamiento de datos, los cuales se encuentran disponibles para la toma de decisiones al interior de las organizaciones, facilitando la recopilación, el procesamiento y el almacenamiento de datos, para su posterior análisis y toma de decisiones a partir de esta información.
         p(data-aos="fade-right") Todos los sistemas de información de las organizaciones deben de contar con los siguientes componentes:
 
     .row.justify-content-center.mt-5(data-aos="fade-left")
@@ -61,9 +61,9 @@
           img(src="@/assets/curso/temas/tema2/img5.png")
       .col-lg-8
         LineaTiempoD.color-secundario
-          p(numero="1" titulo="<i>Software</i>") Programas o sistemas que permiten el procesamiento y administración de datos.
+          p(numero="1" titulo="<i>Software</i>") programas o sistemas que permiten el procesamiento y administración de datos.
 
-          p(numero="2" titulo="<i>Hardware</i>") Los sistemas de información deben de contar con un conjunto de elementos físicos y materiales, que permitan su soporte como los computadores u ordenadores.
+          p(numero="2" titulo="<i>Hardware</i>") los sistemas de información deben de contar con un conjunto de elementos físicos y materiales, que permitan su soporte como los computadores u ordenadores.
 
           p(numero="3" titulo="Base de datos") También conocidas como banco de datos, recopilan información ordenada y sistemática para ser analizada y soportar las decisiones en las organizaciones.
 
@@ -100,7 +100,7 @@
       .col-10(style="background-color:#DEF8F3").p-4
         SlyderB(:datos="datosSlyder")
       .col-10
-        p(data-aos="fade-right").mt-5 El tiempo de respuesta es el lapso de tiempo en el que un cliente realiza una PQRS y el tiempo que emplea la organización para dar respuesta, este tiempo se conoce como tiempo de primera respuesta o FRT (First replay time).
+        p(data-aos="fade-right").mt-5 El tiempo de respuesta es el lapso de tiempo en el que un cliente realiza una PQRS y el tiempo que emplea la organización para dar respuesta, este tiempo se conoce como tiempo de primera respuesta o FRT (<i>First replay time</i>).
 
     .tarjeta.p-4.mt-5(data-aos="fade-left")(style="background-color: #F6EFE9")
       .row.align-items-center
@@ -120,7 +120,7 @@
           img(src='@/assets/curso/temas/tema2/flecha.svg').m-auto(data-aos="fade-right")
 
     p(data-aos="fade-right").mt-5 Suma los tiempos empleados en dar respuesta a las solicitudes, dividido en el número de peticiones.
-    p(data-aos="fade-right") A continuación se presenta una relación de los tiempos óptimos en dar respuesta de acuerdo con los medios de comunicación empleados por las organizaciones.
+    p(data-aos="fade-right") A continuación, se presenta una relación de los tiempos óptimos en dar respuesta de acuerdo con los medios de comunicación empleados por las organizaciones.
 
     .titulo-sexto.color-acento-contenido.mt-5
       h5 Tabla 2.
@@ -168,7 +168,7 @@
           figure
             img(src='@/assets/curso/temas/tema2/img13.png')          
         .col-md-8
-          p Algunas de las técnicas o mecanismos para mejorar los tiempos de respuesta son la implementación de <i>software</i>, de soporte o servicio al cliente, cualificar al personal, portales de autoayuda para los clientes, <i>software</i> de <i>chat</i>, asistentes virtuales y estandarización de procesos.
+          p Algunas de las técnicas o mecanismos para mejorar los tiempos de respuesta son: la implementación de <i>software</i>, de soporte o servicio al cliente, cualificar al personal, portales de autoayuda para los clientes, <i>software</i> de <i>chat</i>, asistentes virtuales y estandarización de procesos.
           p En esta era digital los clientes esperan respuesta casi que de inmediato, una demora en la respuesta y que a su vez no sea clara o brinde solución, afecta la relación con el cliente.
 
     separador

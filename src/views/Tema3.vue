@@ -32,7 +32,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img6.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Uno de los grandes beneficios de los medios de comunicación y de información son las estrategias de marketing a través de la publicidad en los medios de comunicación, los cuales permiten informar y dar a conocer sus productos o servicios.
+            p.mb-0 Uno de los grandes beneficios de los medios de comunicación y de información son las estrategias de <i>marketing</i> a través de la publicidad en los medios de comunicación, los cuales permiten informar y dar a conocer sus productos o servicios.
         
         p(data-aos="fade-right").mt-5 La comunicación e información más empleados por las organizaciones son los medios interpersonales, los cuales permiten ofrecer un servicio personalizado a sus clientes como lo son las páginas web, el teléfono, chat y otros empleados por estas como estrategia de comunicación e información. 
 
@@ -54,7 +54,7 @@
         .cajon.color-primario.p-4.mt-5
           p Las organizaciones deben propender porque el personal de servicio al cliente exprese, comunique y sea receptivo a lo que el cliente comunica; pero también a lo que la organización comunica, estas características de la comunicación e información deben ser concebidas como uno de los atributos más relevantes dentro del proceso de servicio al cliente, para ello se resalta: 
 
-    p(data-aos="fade-right").mt-5 Las solicitudes o peticiones en la actualidad se denominan con la sigla PQRS, la cual dimensiona cinco experiencias o solicitudes de los clientes, esta abreviatura corresponde a petición, quejas, reclamos, sugerencias y felicitaciones, que se traducen básicamente en la forma en que nos dirigimos a los clientes, en el siguiente vídeo, podrá consultar más al respecto: 
+    p(data-aos="fade-right").mt-5 Las organizaciones deben propender porque el personal de servicio al cliente exprese, comunique y sea receptivo de lo que el cliente comunica; pero también de lo que la organización comunica, estas características de la comunicación e información deben ser concebidas como uno de los atributos más relevantes dentro del proceso de servicio al cliente, para ello se resalta:  
 
     figure.mt-5
       .video
@@ -72,11 +72,11 @@
                 .col.mb-3.mb-sm-0
                   p Ampliar la información desde el Decreto 1078 de 2015, por medio del cual se expide el Decreto Único Reglamentario del sector de tecnologías de la información y las comunicaciones.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_Codigo_de_comercio_DECRETO_410_DE_1971.pdf')" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77888" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
-        p(data-aos="fade-right").mt-5 Existen otras normas, que si bien no regulan la comunicación, si regulan el manejo de la información personal, como lo es la:
+        p(data-aos="fade-right").mt-5 Existen otras normas, que si bien no regulan la comunicación, sí regulan el manejo de la información personal, como lo es la:
 
         .tarjeta.BGIMG04.p-3.mt-5
           .row.justify-content-around.align-items-center
@@ -87,7 +87,7 @@
                 .col.mb-3.mb-sm-0
                   p Ley 1581 de 2012, que regula la protección de datos personales, por lo cual las organizaciones deben de establecer políticas respecto a la información que se va a divulgar, como la responsabilidad que tiene de custodiar la información de sus clientes. 
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_Codigo_de_comercio_DECRETO_410_DE_1971.pdf')" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -96,7 +96,7 @@
       h2 3.2  Medios tecnológicos y su uso adecuado
 
     p(data-aos="fade-right") Con los cambios tecnológicos las organizaciones han tenido que adaptar sus procesos a estos medios tecnológicos, los cuales han permitido la modernización, mejoras en sus servicios, estandarización de procesos, conectividad con el cliente, toma de decisiones y lo más importante, estar en constate evolución, de lo contrario son organizaciones que están llamadas a desaparecer.
-    p(data-aos="fade-right") Día a día se escucha con más fuerza la creación de nuevas startup, que son organizaciones o empresas que ofrecen sus productos o servicios a través del uso de las tecnologías; por lo cual se debe tener en cuenta que hacia estas nuevas organizaciones van creciendo los mercados de bienes y servicios, gracias a la utilidad que brindan las Tecnologías de la Información y la Comunicación, así como se detalla a continuación: 
+    p(data-aos="fade-right") Día a día se escucha con más fuerza la creación de nuevas <i>startup</i>, que son organizaciones o empresas que ofrecen sus productos o servicios a través del uso de las tecnologías; por lo cual se debe tener en cuenta que hacia estas nuevas organizaciones van creciendo los mercados de bienes y servicios, gracias a la utilidad que brindan las Tecnologías de la Información y la Comunicación, así como se detalla a continuación: 
 
     .tarjeta.BGIMG03.p-4.mt-5
       SlyderA(tipo="b")

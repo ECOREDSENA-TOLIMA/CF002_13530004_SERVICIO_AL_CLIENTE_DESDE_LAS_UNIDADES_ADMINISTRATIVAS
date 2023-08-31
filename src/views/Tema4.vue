@@ -109,7 +109,7 @@
             .h5.mb-2 Actuar.
             p Implementar acciones de mejora.
 
-    p(data-aos="fade-right").mt-5 La ejecución del ciclo PHVA (Planificar, Hacer, Verificar, Actuar) contribuye de manera significativa al servicio al cliente al proporcionar un enfoque estructurado y sistemático para la mejora continua. Este ciclo, también conocido como ciclo de Deming o ciclo de mejora continua, ayuda a las organizaciones a identificar y corregir problemas, optimizar procesos y garantizar la satisfacción del cliente. A continuación, se detalla cómo cada etapa del ciclo PHVA contribuye al servicio al cliente:
+    p(data-aos="fade-right").mt-5 La ejecución del ciclo PHVA (Planificar, Hacer, Verificar, Actuar) contribuye de manera significativa al servicio al cliente al proporcionar un enfoque estructurado y sistemático para la mejora continua. Este ciclo, también conocido como ciclo de <i>Deming</i> o ciclo de mejora continua, ayuda a las organizaciones a identificar y corregir problemas, optimizar procesos y garantizar la satisfacción del cliente. A continuación, se detalla cómo cada etapa del ciclo PHVA contribuye al servicio al cliente:
 
     TabsC.color-acento-botones.mt-5
       .py-3.py-md-4(titulo="Planificar")
@@ -318,7 +318,7 @@
                   i.lista-ul__vineta
                   | Confidencialidad y seguridad de la información.
 
-    p(data-aos="fade-right").mt-5 A continuación se establecen los pasos para la realización de una auditoría del sistema de gestión de la calidad: 
+    p(data-aos="fade-right").mt-5 A continuación, se establecen los pasos para la realización de una auditoría del sistema de gestión de la calidad: 
 
     .titulo-sexto.color-acento-contenido.mt-5
       h5 Figura 11.

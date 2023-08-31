@@ -7,7 +7,7 @@
         span 1
       h1 Etiqueta y protocolo
 
-    p(data-aos="fade-right") Para el servicio al cliente es importante reconocer en las organizaciones elementos como la etiqueta y el protocolo, los cuales se abordan desde el conocimiento de las empresas, plataforma estratégica, cultura organizacional, las solicitudes de servicio, medios de comunicación, la información y las normas técnicas de gestión de la calidad desde la ISO 9000:2015 del sistema de gestión de calidad; el cual permitirá a las mismas y a los empleados brindar un servicio de calidad aceptable por los clientes.
+    p(data-aos="fade-right") Para el servicio al cliente es importante reconocer en las organizaciones elementos como la etiqueta y el protocolo, los cuales se abordan desde el conocimiento de las empresas, plataforma estratégica, cultura organizacional, las solicitudes de servicio, medios de comunicación, la información y las normas técnicas de gestión de la calidad desde la ISO 9000:2015 del sistema de gestión de calidad; el cual permitirá a las mismas y a los empleados brindar un servicio de calidad aceptable para los clientes.
     p(data-aos="fade-right") Estos conocimientos permitirán que el personal de las organizaciones adquiera habilidades de comunicación y estructuración de los servicios, en las cuales podrá interactuar con el cliente, abordar sus necesidades y estructurar un adecuado portafolio de servicios, que permita que el cliente adquiera los productos o servicios ofertados por la organización y califique su experiencia.
 
     .row.justify-content-center.mt-5
@@ -72,23 +72,29 @@
 
     p(data-aos="fade-right").mt-5 Dentro del contexto colombiano del servicio al cliente, es importante tener en cuenta que existen diferentes tipos de clientes, los cuales pueden agruparse en dos grandes categorías: personas naturales y personas jurídicas. Cada una de estas categorías posee una naturaleza jurídica distinta y se caracteriza por comportamientos, ubicaciones, gustos y necesidades específicas. Es fundamental identificar claramente a cada tipo de cliente con el fin de desarrollar canales de comercialización adecuados, efectivos y eficaces. A continuación, se describen brevemente estos dos grupos de clientes: 
 
-    .row.mt-5 
-      .col-sm-6.col-xl-6.mb-4.mb-xl-0
-        .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false")
-          .indicador--hover(v-if="indicadorTarjetaSlide")
-          .tarjeta-slide__contenedor
-            .tarjeta-slide__contenido.p-4.p-xl-5
-              h1 La persona natural
-              p Se puede definir como la persona que a nombre propio ejerce una actividad económica, en el caso de Colombia se registra ante el Registro Único Tributario (RUT) como persona natural y se le asigna los códigos CIIU de acuerdo con la actividad económica que ejerce. Es la responsable de las obligaciones adquiridas con terceros. 
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img8.png')})`}")
-
-      .col-sm-6.col-xl-6.mb-4.mb-xl-0
-        .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false")
-          .tarjeta-slide__contenedor
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img9.png')})`}")
-            .tarjeta-slide__contenido.p-4.p-xl-5
-              h1 La persona jurídica
-              p Es en sí, la forma jurídica que se le da a una o más personas que voluntariamente desean conformar una sociedad para ejercer una actividad económica; estas personas pueden se natural o jurídica; en el caso de la persona jurídica, la sociedad es la responsable de las obligaciones adquiridas con terceros, y al no cumplir con estas obligaciones, los socios deben responder de acuerdo con el tipo de constitución de la sociedad y de conformidad con la Ley.
+    .row.justify-content-center.mt-5
+      .col-sm-6.col-xl-6.mb-4.mb-xl-0(data-aos="fade-right")
+        .tarjetas-up(@mouseover="mostrarIndicador = false")
+          .indicador--hover(v-if="mostrarIndicador")
+          img(src='@/assets/curso/temas/tema1/img8.png' alt='AvatarTop' style='width:600px')
+          .tarjetas-up_card.p-xl-4.p-lg-3.p-4(style="background-color: #DEF8F3")
+            .title.d-flex.align-items-center.mb-xl-5.mb-lg-4.mb-md-5.mb-4
+              span
+                i.fas.fa-caret-up.fa-2x.me-3
+                i.fas.fa-caret-down.fa-2x.me-3
+              h4.mb-0 La persona natural
+            p.mb-0 Se puede definir como la persona que a nombre propio ejerce una actividad económica, en el caso de Colombia se registra ante el Registro Único Tributario (RUT) como persona natural y se le asigna los códigos CIIU de acuerdo con la actividad económica que ejerce. Es la responsable de las obligaciones adquiridas con terceros. 
+      .col-sm-6.col-xl-6.mb-4.mb-xl-0(data-aos="fade-up")
+        .tarjetas-up(@mouseover="mostrarIndicador = false")
+          .indicador--hover(v-if="mostrarIndicador")
+          img(src='@/assets/curso/temas/tema1/img9.png' alt='AvatarTop' style='width:600px')
+          .tarjetas-up_card.p-xl-4.p-lg-3.p-4(style="background-color: #DEF8F3")
+            .title.d-flex.align-items-center.mb-xl-5.mb-lg-4.mb-md-5.mb-4
+              span
+                i.fas.fa-caret-up.fa-2x.me-3
+                i.fas.fa-caret-down.fa-2x.me-3
+              h4.mb-0 La persona jurídica
+            p.mb-0 Es en sí, la forma jurídica que se le da a una o más personas que voluntariamente desean conformar una sociedad para ejercer una actividad económica; estas personas pueden se natural o jurídica; en el caso de la persona jurídica, la sociedad es la responsable de las obligaciones adquiridas con terceros, y al no cumplir con estas obligaciones, los socios deben responder de acuerdo con el tipo de constitución de la sociedad y de conformidad con la ley.
 
     .row.justify-content-center.mt-5(data-aos="fade-left")
       .col-6 
@@ -96,7 +102,7 @@
       
       .titulo-sexto.color-acento-contenido.mt-5
         h5 Figura 2. 
-        span <i>Diferencias persona jurídica y persona natural</i>  
+        span <i>Diferencias entre persona jurídica y persona natural</i>  
       .col-5
         figure
           img(src='@/assets/curso/temas/tema1/img10.svg', alt='Se hace la comparación entre los clientes que son personas naturales y personas jurídicas. Las personas jurídicas son: Es personas ficticias. Se componente de una o más personas. Actúa a nombre de la sociedad por medio del representante legal. Tiene un patrimonio diferente al de los socios.  Mientras que las personas naturales son: Una persona. Esa persona es una persona humana. Actúa a nombre propio. Cuenta con el patrimonio personal.')                
@@ -104,7 +110,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/img11.svg', alt='Se hace la comparación entre los clientes que son personas naturales y personas jurídicas. Las personas jurídicas son: Es personas ficticias. Se componente de una o más personas. Actúa a nombre de la sociedad por medio del representante legal. Tiene un patrimonio diferente al de los socios.  Mientras que las personas naturales son: Una persona. Esa persona es una persona humana. Actúa a nombre propio. Cuenta con el patrimonio personal.')          
 
-    p(data-aos="fade-right").mt-5 A parte de su procedencia jurídica los clientes internos y externos se clasifican en dos categorías, el cliente actual quien en la actualidad consume los productos y servicios y, el cliente potencial, quien pueden ser un posible comprador de los productos y servicios, estos son: 
+    p(data-aos="fade-right").mt-5 A parte de su procedencia jurídica los clientes internos y externos se clasifican en dos categorías, el cliente actual quien en el presente consume los productos y servicios y, el cliente potencial, quien pueden ser un posible comprador de los productos y servicios, estos son: 
 
     .row.justify-content-center.mt-5(data-aos="fade-left")
       .col-10 
@@ -119,7 +125,7 @@
 
           .tarjeta.tarjeta--blanca.p-3(x="38%" y="84%" numero="+")
             .h5.mb-2 Cliente inactivo
-            p Es la personas que compró el producto o servicio, en un periodo de tiempo y en la actualidad no se beneficia de este.
+            p Es la persona que compró el producto o servicio, en un periodo de tiempo y en la actualidad no se beneficia de este.
 
           .tarjeta.tarjeta--blanca.p-3(x="63%" y="83%" numero="+")
             .h5.mb-2 Cliente en la competencia
@@ -161,7 +167,7 @@
               figure
                 img(src='@/assets/curso/temas/tema1/img14.svg')
             .col-9
-              p Las reglas de protocolo permiten a las organizaciones implementar las normas de comportamiento de todos sus miembros, estableciendo jerarquías y el orden estructural al interior de la organización; estas adecuadas normas de comportamiento permiten un adecuado posicionamiento de imagen corporativa tanto con los clientes internos como externos.
+              p Las reglas de protocolo permiten a las organizaciones implementar las normas de comportamiento de todos sus miembros, estableciendo jerarquías y el orden estructural al interior de la organización; estas adecuadas normas de comportamiento permiten un correcto posicionamiento de imagen corporativa tanto con los clientes internos como externos.
         
         p(data-aos="fade-right").mt-5 Los protocolos al interior de las organizaciones se pueden clasificar en seis tipos tal como se ve en la siguiente tabla:
 
@@ -203,7 +209,7 @@
             
             .col-md-8.mb-4.mb-md-0
               p El protocolo debe ser un manual documentado para toda la organización, el cual debe ser práctico, de acceso a todos los miembros, claro, conciso y flexible; estos manuales deben de incluir un índice, información de la organización y capítulos.
-              p Dentro de los manuales de protocolo de la organización se deben contemplar unas reglas básicas o esenciales como lo es la puntualidad, el saludo, la imagen corporativa, la imagen de los miembros, la ortografía, el trato adecuado, entre otros, que se consideran relevantes para la organización.
+              p Dentro de los manuales de protocolo de la organización se deben contemplar unas reglas básicas o esenciales como son: puntualidad, el saludo, la imagen corporativa, la imagen de los miembros, la ortografía en los escritos, el trato adecuado, entre otros, que se consideran relevantes para la organización, a continuación, se describen algunas de estas:
 
             .col-md-4
               figure
@@ -262,7 +268,7 @@
             p.mb-0 Estas normas se aprenden desde la niñez principalmente en el entorno familiar; pero también se aprenden en el entorno social como en la escuela, ya que son de gran importancia para la interacción en la sociedad.
             br
             br
-            p Al interior de las organizaciones también se deben implementar estas normas de cortesía, debido a que en el día a día se interactúa con personas, como lo son compañeros de trabajo, clientes, proveedores, entes gubernamentales, entre otros, por lo cual estas normas se basan principalmente en el respeto por el otro, observe:
+            p Al interior de las organizaciones también se deben implementar estas normas de cortesía, debido a que en el día a día se interactúa con personas, que pueden ser: compañeros de trabajo, clientes, proveedores, entes gubernamentales, entre otros, por lo cual estas normas se basan principalmente en el respeto por el otro, observe:
     
     figure.mt-5
       .video
@@ -281,21 +287,21 @@ export default {
       {
         titulo: '¡Importante!',
         texto:
-          'A través de la historia el ser humano ha evolucionado y con ello sus hábitos de consumo, por lo cual las organizaciones se han visto en la necesidad de mejorar sus procesos y adaptarse al entorno.',
+          'A través de la historia, el ser humano ha evolucionado y con ello sus hábitos de consumo, por lo cual las organizaciones se han visto en la necesidad de mejorar sus procesos y adaptarse al entorno.',
         imagen: require('@/assets/curso/temas/tema1/img1.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: '',
         texto:
-          'Con ello ha debido posicionar su imagen corporativa tanto interna como externa.',
+          'Con ello, ha debido posicionar su imagen corporativa tanto interna como externa.',
         imagen: require('@/assets/curso/temas/tema1/img2.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: '',
         texto:
-          'En su entorno interno los empresarios y personal que labora para cada una de las organizaciones se ha apropiado de la imagen corporativa, la cual generar para los clientes o usuarios externos confianza, amabilidad y una excelente experiencia con el producto o servicio.',
+          'En su entorno interno los empresarios y personal que labora para cada una de las organizaciones se ha apropiado de la imagen corporativa, la cual genera para los clientes o usuarios externos confianza, amabilidad y una excelente experiencia con el producto o servicio.',
         imagen: require('@/assets/curso/temas/tema1/img3.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
