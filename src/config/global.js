@@ -250,7 +250,7 @@ export default {
       link: 'https://economipedia.com/definiciones/empresa.html',
     },
     {
-      referencia: 'SENA. ( 2021). Tipos de clientes [video]. YouTube. ',
+      referencia: 'SENA. (2021). Tipos de clientes [video]. YouTube. ',
       link: 'https://www.youtube.com/watch?v=FxVNkf957tw',
     },
     {
@@ -260,6 +260,11 @@ export default {
     {
       referencia: 'SENA. (2020). Servicio al cliente [video]. YouTube. ',
       link: 'https://www.youtube.com/watch?v=j7zSYKv7w6k',
+    },
+    {
+      referencia:
+        'Pérez & Merino. (2021). Definicion de Diccionario virtual de la web. 2023. ',
+      link: 'https://definicion.de/evidencia/',
     },
   ],
   creditos: [

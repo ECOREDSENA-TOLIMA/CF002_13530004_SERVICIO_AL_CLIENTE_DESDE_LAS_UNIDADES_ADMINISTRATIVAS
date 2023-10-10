@@ -73,29 +73,26 @@
     p(data-aos="fade-right").mt-5 Dentro del contexto colombiano del servicio al cliente, es importante tener en cuenta que existen diferentes tipos de clientes, los cuales pueden agruparse en dos grandes categorías: personas naturales y personas jurídicas. Cada una de estas categorías posee una naturaleza jurídica distinta y se caracteriza por comportamientos, ubicaciones, gustos y necesidades específicas. Es fundamental identificar claramente a cada tipo de cliente con el fin de desarrollar canales de comercialización adecuados, efectivos y eficaces. A continuación, se describen brevemente estos dos grupos de clientes: 
 
     .row.justify-content-center.mt-5
-      .col-sm-6.col-xl-6.mb-4.mb-xl-0(data-aos="fade-right")
-        .tarjetas-up(@mouseover="mostrarIndicador = false")
-          .indicador--hover(v-if="mostrarIndicador")
-          img(src='@/assets/curso/temas/tema1/img8.png' alt='AvatarTop' style='width:600px')
-          .tarjetas-up_card.p-xl-4.p-lg-3.p-4(style="background-color: #DEF8F3")
-            .title.d-flex.align-items-center.mb-xl-5.mb-lg-4.mb-md-5.mb-4
-              span
-                i.fas.fa-caret-up.fa-2x.me-3
-                i.fas.fa-caret-down.fa-2x.me-3
-              h4.mb-0 La persona natural
+      .col-10
+        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5(data-aos="fade-left")
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img8.png')})`}"
+          )
+          .bloque-texto-g__texto.p-4
+            h4.mb-0 La persona natural <br>
             p.mb-0 Se puede definir como la persona que a nombre propio ejerce una actividad económica, en el caso de Colombia se registra ante el Registro Único Tributario (RUT) como persona natural y se le asigna los códigos CIIU de acuerdo con la actividad económica que ejerce. Es la responsable de las obligaciones adquiridas con terceros. 
-      .col-sm-6.col-xl-6.mb-4.mb-xl-0(data-aos="fade-up")
-        .tarjetas-up(@mouseover="mostrarIndicador = false")
-          .indicador--hover(v-if="mostrarIndicador")
-          img(src='@/assets/curso/temas/tema1/img9.png' alt='AvatarTop' style='width:600px')
-          .tarjetas-up_card.p-xl-4.p-lg-3.p-4(style="background-color: #DEF8F3")
-            .title.d-flex.align-items-center.mb-xl-5.mb-lg-4.mb-md-5.mb-4
-              span
-                i.fas.fa-caret-up.fa-2x.me-3
-                i.fas.fa-caret-down.fa-2x.me-3
-              h4.mb-0 La persona jurídica
+
+    .row.justify-content-center.mt-5
+      .col-10
+        .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5(data-aos="fade-left")
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img9.png')})`}"
+          )
+          .bloque-texto-g__texto.p-4
+            h4.mb-0 La persona jurídica <br>
             p.mb-0 Es en sí, la forma jurídica que se le da a una o más personas que voluntariamente desean conformar una sociedad para ejercer una actividad económica; estas personas pueden se natural o jurídica; en el caso de la persona jurídica, la sociedad es la responsable de las obligaciones adquiridas con terceros, y al no cumplir con estas obligaciones, los socios deben responder de acuerdo con el tipo de constitución de la sociedad y de conformidad con la ley.
 
+   
     .row.justify-content-center.mt-5(data-aos="fade-left")
       .col-6 
         p Para lo anterior se hace necesario considerar sus diferencias:

@@ -219,7 +219,7 @@
                   .col.mb-3.mb-sm-0
                     p De acuerdo con la Norma internacional ISO 9001:2015 en el numeral 8.5.2 la organización debe de cumplir con los siguientes requisitos en la identificación y trazabilidad de los procesos.
                   .col-sm-auto
-                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_Codigo_de_comercio_DECRETO_410_DE_1971.pdf')" target="_blank")
+                    a.boton.color-acento-botones(href=('https://www.forpo.gov.co/es/planeacion-gestion-y-control/control-interno-1/normatividad-2/5159-norma-iso-9001-2015/file') target="_blank")
                       span Descargar
                       i.fas.fa-file-download
 
@@ -285,7 +285,7 @@
                 .col.mb-3.mb-sm-0
                   p Observe un ejemplo de la libreta de calificaciones. Ver anexo Libreta Calificaciones. 
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_Codigo_de_comercio_DECRETO_410_DE_1971.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_Libreta_calificaciones.docx')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
