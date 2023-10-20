@@ -73,8 +73,8 @@
                   p Ampliar la información desde el Decreto 1078 de 2015, por medio del cual se expide el Decreto Único Reglamentario del sector de tecnologías de la información y las comunicaciones.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77888" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
+                    span Ir al sitio web
+                    i.fas.fa-link
 
         p(data-aos="fade-right").mt-5 Existen otras normas, que si bien no regulan la comunicación, sí regulan el manejo de la información personal, como lo es la:
 
@@ -88,8 +88,8 @@
                   p Ley 1581 de 2012, que regula la protección de datos personales, por lo cual las organizaciones deben de establecer políticas respecto a la información que se va a divulgar, como la responsabilidad que tiene de custodiar la información de sus clientes. 
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
+                    span Ir al sitio web
+                    i.fas.fa-link
 
     separador
     #t_3_2.titulo-segundo.color-acento-contenido
