@@ -232,6 +232,10 @@ export default {
   ],
   referencias: [
     {
+      referencia: 'Espinosa (2016), Tipos de clientes.',
+      link: '',
+    },
+    {
       referencia: 'Palomo, M. (2014). Atención al cliente. Paraninfo.',
       link: '',
     },

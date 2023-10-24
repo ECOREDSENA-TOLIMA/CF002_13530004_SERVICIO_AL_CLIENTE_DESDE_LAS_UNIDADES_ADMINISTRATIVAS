@@ -82,7 +82,7 @@
                   .col.mb-3.mb-sm-0
                     p Las listas de chequeo deben de establecer la siguiente estructura, ver anexo Lista de Verificación.
                   .col-sm-auto
-                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_Codigo_de_comercio_DECRETO_410_DE_1971.pdf')" target="_blank")
+                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_2_Lista_de_verificacion.pdf')" target="_blank")
                       span Descargar
                       i.fas.fa-file-download
 
